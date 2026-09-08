@@ -1,7 +1,3 @@
----
-layout: default
-title: "Privacy Policy – drop on drop"
----
 
 # Privacy Policy – drop on drop
 
